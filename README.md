@@ -134,6 +134,4 @@ Kotlin learner & future Android developer
 * Edit category names
 * Add date tracking for expenses
 * Charts and analytics
-
 ---
- 👨‍💻
